@@ -55,8 +55,8 @@ I am a results-driven entrepreneur and developer focused on building scalable, h
 
 ---
 
-### 📈 Activity & Languages
+### 📊 My GitHub Intelligence
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mtr-tech&show_icons=true&theme=radical&count_private=true" alt="mtr-tech stats" height="180px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mtr-tech&theme=radical" alt="mtr-tech streak" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=mtr-tech&show_icons=true&theme=radical&count_private=true&hide=contribs,issues" alt="mtr-tech stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtr-tech&layout=compact&theme=radical&count_private=true" alt="top langs" height="180px" />
 </p>
